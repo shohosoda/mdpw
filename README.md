@@ -1,3 +1,4 @@
+[日本語](README.ja.md)
 # mdpw
 
 ## How to in youtube
